@@ -1,0 +1,41 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Image/back.png</file>
+        <file>Image/background.png</file>
+        <file>Image/center_point.png</file>
+        <file>Image/drawer.png</file>
+        <file>Image/drawer_p.png</file>
+        <file>Image/hold-next.png</file>
+        <file>Image/hold-pause.png</file>
+        <file>Image/hold-play.png</file>
+        <file>Image/hold-prev.png</file>
+        <file>Image/hold.png</file>
+        <file>Image/music.png</file>
+        <file>Image/next.png</file>
+        <file>Image/pause.png</file>
+        <file>Image/play.png</file>
+        <file>Image/playing.png</file>
+        <file>Image/playlist.png</file>
+        <file>Image/playlist_item.png</file>
+        <file>Image/point.png</file>
+        <file>Image/prev.png</file>
+        <file>Image/progress_bar.png</file>
+        <file>Image/progress_bar_bg.png</file>
+        <file>Image/repeat.png</file>
+        <file>Image/repeat1_hold.png</file>
+        <file>Image/shuffle-1.png</file>
+        <file>Image/shuffle.png</file>
+        <file>Image/title.png</file>
+        <file>Image/us.png</file>
+        <file>Image/USB Mussic.png</file>
+        <file>Image/vn.png</file>
+        <file>Translator/Media_VIE.ts</file>
+        <file>ButtonControl.qml</file>
+        <file>SwitchButton.qml</file>
+        <file>AppHeader.qml</file>
+        <file>PlaylistView.qml</file>
+        <file>MediaInfoControl.qml</file>
+        <file>Image/album_art.png</file>
+    </qresource>
+</RCC>
